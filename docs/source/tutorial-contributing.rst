@@ -69,6 +69,7 @@ List of tutorial participants
 
 .. rst-class:: tutorial-participants
 
+- Katherine A Tume (Rutgers University- Newark)
 - Alexander Maksiaev (University of Virginia)
 - Kim Scott (MIT)
 - Ashley Thomas (MIT)
